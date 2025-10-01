@@ -1,7 +1,12 @@
 import os
 def main():
-    print("Hello, World!")
-    
+    print("=" * 50)
+    print("GitHub Actions + Docker martxan da!")
+    print("=" * 50) 
+
+if __name__ == "__main__":
+    main()
+
 class Kalkulagailua:
     def batu (self, a: int, b: int) -> int:
         return a + b
